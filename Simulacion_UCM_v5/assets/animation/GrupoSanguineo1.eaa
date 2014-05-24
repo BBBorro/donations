@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE animation SYSTEM "animation.dtd">
+<animation id="GrupoSanguineo1" slides="yes" usetransitions="yes"><documentation>Conjunto de diapositivas de la escena</documentation><transition time="0" type="none"/><frame maxSoundTime="1000" soundUri="" time="100" type="image" uri="assets/animation/GrupoSanguineo1b_01.jpg" waitforclick="yes"/><transition time="0" type="none"/></animation>

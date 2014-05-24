@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!DOCTYPE game-descriptor SYSTEM "descriptor.dtd">
+<game-descriptor versionNumber="5628">
+	<title>Evaluación de un donante y Distribución de órganos</title>
+	<description/>
+	<automatic-commentaries/>
+	<configuration defaultClickAction="showActions" dragBehaviour="considerNonTargets" keepShowing="yes" keyboard-navigation="disabled" perspective="regular">
+		<gui inventoryPosition="none" type="contextual">
+			<cursors>
+				<cursor type="default" uri="gui/cursors/default_cursor.png"/>
+				<cursor type="over" uri="gui/cursors/selected2.png"/>
+				<cursor type="action" uri="gui/cursors/default_cursor.png"/>
+				<cursor type="exit" uri="gui/cursors/selected2.png"/>
+			</cursors>
+		</gui>
+		<mode playerTransparent="yes"/>
+		<graphics mode="windowed"/>
+	</configuration>
+	<contents>
+		<chapter path="chapter1.xml">
+			<title>Evaluación de Donantes / Donor Evaluation / Evaluation de donneurs</title>
+			<description/>
+		</chapter>
+	</contents>
+</game-descriptor>
